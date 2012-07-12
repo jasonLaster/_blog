@@ -18,10 +18,10 @@
       &:before { content: "\2039"; }
       &:after { content: "\203A"; }
       &:before, &:after {
-        font-size: .875em;
+        font-size: .855em;
         position: relative;
         top: -.16em; 
-        letter-spacing: -.025em;
+        letter-spacing: .1em;
       }
       #{$focus} { 
         b, span { letter-spacing: 0; }
@@ -36,7 +36,7 @@
           @include transition(all 300ms);
           display: inline-block;
           text-transform: uppercase;
-          letter-spacing: -.44em;
+          letter-spacing: -.5em;
         }
         span { opacity: 0; }
       }

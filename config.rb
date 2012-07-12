@@ -4,7 +4,7 @@
 
 set :markdown, :layout_engine => :haml
 set :markdown_engine, :redcarpet
-set :build_dir, "../../susy-pages/"
+set :build_dir, "./build-pages/"
 
 require 'rack/codehighlighter'
 require "pygments"
