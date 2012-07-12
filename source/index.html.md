@@ -37,14 +37,9 @@
   </div>
 </section>
 <section class="why">
-  <h2>Why is 1.0 a release candidate?</h2>
+  <h2>Why another section to the homepage?</h2>
   <p>
-    Susy 1.0 is stable, tested, <span class="amp">&</span> feature complete;
-    but our launch depends on unreleased Sass features.
-    We think those features are stable as well,
-    and you should <a href="guides/getting-started/">get started</a>
-    with Susy 1.0 RC right now.
-    We'll make sure the final upgrade is as painless as possible.
+    I want to highlight things that I'm working on or have recently done. If i'm working on a cool project I should link to it. If I have just written a cool blog post, i want to link to that. 
   </p>
 </section>
 

@@ -77,7 +77,7 @@
     @include h-borders(3px,1.5,$medpx);
     @include pad(2,2);
     position: relative;
-    @include font-icon($icon-question-sign) {
+    @include font-icon($icon-fire) {
       @include adjust-font-size-to($xxxlargepx);
       position: absolute;
       left: 0;
